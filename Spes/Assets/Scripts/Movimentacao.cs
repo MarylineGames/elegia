@@ -10,6 +10,9 @@ public class Movimentacao : MonoBehaviour
 
     Vector2 movimento;
 
+    public string startPoint;
+
+
     // Start is called before the first frame update
     void Start()
     {
